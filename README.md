@@ -84,11 +84,7 @@ Specify the license under which the project is distributed, e.g., MIT License.
 
 **Contact**
 
-Provide contact information for further inquiries:
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
-
-For a practical example of a README file for a To-Do List application, you can refer to this repository: [Asanda's To-Do List](https://github.com/asandan8106/Asanda-s-to-do-list) citeturn0search1.
+For a practical example of a README file for a To-Do List application, you can refer to this repository: [Aslinsonia's To-Do List]([https://github.com/asandan8106/Asanda-s-to-do-list](https://github.com/Aslinsonia/To-do-list)) citeturn0search1.
 
 If you have specific questions or need further assistance with your To-Do List project, feel free to ask! 
